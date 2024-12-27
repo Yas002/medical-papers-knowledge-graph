@@ -33,7 +33,7 @@ In summary, these papers predominantly focus on fertility, reproductive health, 
 ## Project Structure
 
 ```
-medical-research-kg
+medical-papers-knowledge-graph
 ├── src
 │   ├── preprocess
 │   │   ├── clean_preprocess_data.py       # Functions for cleaning and preprocessing JSON data
