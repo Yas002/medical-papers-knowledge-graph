@@ -52,6 +52,13 @@ medical-papers-knowledge-graph
 
 get_json_files_names.py: this script ive us an idea about the topics of the medical papers before starting to dive in the project.
 
+
+## Result
+
+![Knowledge Graph image 1](images/graph1.png)
+![Knowledge Graph image 1](images/graph2.png)
+![Knowledge Graph image 1](images/graph3.png)
+
 ## Setup Instructions
 
 1. Clone the repository:
