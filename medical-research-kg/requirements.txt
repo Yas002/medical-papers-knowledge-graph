@@ -1,5 +1,0 @@
-json
-os
-requests == 2.32.3
-neo4j == 5.27.0
-dotenv == 0.0.5
