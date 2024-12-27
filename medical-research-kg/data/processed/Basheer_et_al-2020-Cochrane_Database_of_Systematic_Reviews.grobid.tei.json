@@ -1,0 +1,218 @@
+{
+  "paper_id": "Basheer_et_al-2020-Cochrane_Database_of_Systematic_Reviews",
+  "header": {
+    "generated_with": "S2ORC 1.0.0",
+    "date_generated": "2024-04-05T17:20:06.572206Z"
+  },
+  "title": "Disease-modifying therapy for HIV-related distal symmetrical polyneuropathy (including antiretroviral toxic neuropathy)",
+  "authors": [
+    {
+      "first": "Aneesh",
+      "last": "Basheer",
+      "email": "",
+      "affiliation": {
+        "laboratory": "",
+        "institution": "Pondicherry Institute of Medical Sciences",
+        "location": {
+          "settlement": "Pondicherry",
+          "country": "India"
+        }
+      }
+    },
+    {
+      "first": "Richard",
+      "last": "Kirubakaran",
+      "email": "",
+      "affiliation": {
+        "laboratory": "",
+        "institution": "Christian Medical College",
+        "location": {
+          "settlement": "Vellore",
+          "country": "India"
+        }
+      }
+    },
+    {
+      "first": "Kevin",
+      "last": "Tan",
+      "email": "",
+      "affiliation": {
+        "laboratory": "",
+        "institution": "National Neuroscience Institute",
+        "location": {
+          "settlement": "Singapore",
+          "country": "Singapore"
+        }
+      }
+    },
+    {
+      "first": "Venugopalan",
+      "last": "Vishnu",
+      "email": "vishnuvy16@yahoo.com",
+      "affiliation": {
+        "laboratory": "",
+        "institution": "All India Institute of Medical Sciences",
+        "location": {
+          "settlement": "New Delhi",
+          "country": "India"
+        }
+      }
+    },
+    {
+      "first": "Doreen",
+      "last": "Fialho",
+      "email": "",
+      "affiliation": {
+        "laboratory": "",
+        "institution": "King's College Hospital",
+        "location": {
+          "settlement": "London",
+          "country": "UK"
+        }
+      }
+    }
+  ],
+  "year": "",
+  "abstract": "Disease-modifying therapy",
+  "pdf_parse_keywords": [],
+  "body_text": [
+    "Peripheral neuropathy continues to be the most frequent neurological complication of human immunodeficiency virus (HIV) infection (Gabbai 2013) .Although various types of HIV neuropathy have been recognised, HIV-related distal symmetrical polyneuropathy (DSP) is most commonly encountered (Geraci 2001) .Other neuropathies associated with HIV infection are relatively rare, and include acute and chronic inflammatory demyelinating neuropathy, polyradiculopathy, multiple mononeuropathy, autonomic neuropathy, cranial neuropathies and amyotrophic lateral sclerosis (ALS)-like motor neuropathy (Kaku 2014) .",
+    "The e ects of HIV-related DSP can be debilitating.Most a ected individuals experience severe neuropathic pain.In patients with involvement of the feet, around 30% have moderate pain, while this proportion climbs to 50% with more proximal involvement (Schifitto 2005) .Studies report that even mild neuropathic pain could be associated with significant impact on quality of life, besides a ecting employment opportunities (Biraguma 2012; Ellis 2010; Keltner 2012) .The e ects of HIV-related DSP on disability and functional impairment have also been well documented (Pandya 2005; Ellis 2010 ).Presence of pain has also been associated with higher scores for depression, anxiety and insomnia (Phillips 2014; Pillay 2018 ).",
+    "HIV-related DSP is a length-dependent, axonal, predominantly sensory neuropathy, dominated by neuropathic pain.Clinical examination may reveal increased vibratory and pinprick thresholds, reduced or absent ankle reflexes, and minimal distal weakness.Another entity that is usually considered along with HIV-related DSP is antiretroviral toxic neuropathy (ATN), that is practically indistinguishable from the former.In the early years following introduction of Highly Active Anti-Retroviral Therapy (HAART), zalcitabine, stavudine and didanosine (dideoxynucleoside reverse transcriptase inhibitors; d-NRTIs) accounted for most cases of ATN (Berger 1993; Blum 1996) .Development of sensory neuropathy in an antiretroviral therapy (ART)-naive HIV-infected person supports a diagnosis of HIV-related DSP; a temporal association with initiation of ART is probably the most important distinguishing feature of ATN.In case of ATN, symptoms typically occur one week to six months a er commencing these antiretroviral drugs and may worsen for a period of time even a er discontinuation, a phenomenon known as 'coasting', which also occurs in other toxic neuropathies (Berger 1993; Blum 1996) .",
+    "The prevalence of HIV-related DSP steadily increased from 7.5% to 13% in the early 1990s when HAART was sparingly used (Fuller 1993; Smyth 2007 ), to around 42% in 2006 (Smyth 2007) .Despite a decline in use of d-NRTIs and widespread availability of newer ART with favourable safety profiles, the burden of HIV-related DSP is increasing.The current estimated prevalence of HIV-related DSP varies from 1.2% to 69.4%, depending upon disease stage and concurrent antiretroviral therapy (Ghosh 2012) .Further, the risk factors associated with HIV-related DSP have shi ed significantly from advanced HIV infection, lower CD4 T lymphocyte count and higher viral load in the pre-HAART era (Bacellar 1994; Barohn 1993; Childs 1999; Husstedt 2000; Simpson 2002) , to advanced age, taller height, exposure to d-NRTIs (stavudine in particular), diabetes and current exposure to combination ART (CART) in the HAART era (Cherry 2006; Ellis 2010; Evans 2011) .Apart from these, data also implicate protease inhibitor (PI) use as a risk for developing HIVrelated DSP while on d-NRTIs (Evans 2011; Pettersen 2006) , despite some contradicting evidence (Ellis 2008) .Therefore, contrary to logical expectations, HIV-related DSP (including ATN) is still a huge public health concern, justifying need for ongoing studies to address both knowledge gaps and potential disease-modifying treatments.",
+    "The exact pathogenesis of HIV-related DSP is unknown.Both direct and indirect mechanisms have been proposed; these include direct axonal toxicity induced by the HIV envelope glycoprotein gp120, and aberrant pro-inflammatory cytokine-mediated neurotoxicity, indirectly caused by HIV through macrophage activation (Keltner 2012; Rizzuto 1995; Tyor 1995) .In contrast, pathophysiology of ATN has been attributed to direct mitochondrial toxicity (Dalakas 2001) .",
+    "The first obvious choice of treatment in ATN is to discontinue use of neurotoxic drugs, which in people with HIV means changing their ART regimen.Symptoms can take many weeks to resolve a er drug discontinuation, if they resolve at all (Berger 1993) .",
+    "Current management of both HIV-related DSP and ATN is largely symptomatic and focusses on pain relief.With better understanding of the pathophysiology of HIV-related DSP and ATN, research into agents that might have neuroregenerative properties is attracting more interest.The candidate disease-modifying drugs are peptide T, nerve growth factor (NGF), prosaptide, memantine, acetyl-Lcarnitine (ALC), and vicriviroc.",
+    "Initially developed as a promising antiretroviral agent, peptide T is a synthetic octapeptide (Pert 1986) .Several phase I studies on peptide T in people with HIV infection reported improvement in neurological symptoms, including painful neuropathy (Bridge 1989; Wetterberg 1987) .NGF belongs to a group of proteins that enhance survival of sensory and sympathetic neurons by binding to specific receptors on the cell surface (Levi-Montalcini 1987) .Prosaptide, a synthetic glycoprotein belonging to the saposin group, has demonstrated benefit in animal models of neuropathy (Wagner 1998; Calcutt 2000) .Memantine is an analogue of amantadine, an antiviral drug.ALC is essential for normal mitochondrial function and has been reported to activate NGF receptors (Rampello 1992) .It may also promote peripheral nerve regeneration (McKay 2002) .Vicriviroc is an HIV cell-entry-blocker that specifically acts on the C-C chemokine receptor type 5 (CCR5) co-receptor (Strizki 2005) .",
+    "These disease-modifying drugs may produce beneficial e ects in HIV-related DSP and ATN through various mechanisms.Peptide T is a competitive inhibitor of gp120 binding to CD4 receptors (Brenneman 1988) .In addition, it binds to vasoactive intestinal peptide receptors (Pert 1988) .These actions may lead to disruption of cytokine production and function, and ultimately reduce inflammation and neurotoxicity (Kleinerman 1987) .NGF and prosaptide have neurotrophic properties (i.e.promote nerve growth).NGF has pleiotrophic properties in the developing and mature nervous systems (Sah 2003) .It is secreted at sites of damage in peripheral nerves, where it stimulates sprouting of",
+    "Trusted evidence.Informed decisions.Better health.",
+    "Cochrane Database of Systematic Reviews collateral nerves (Doubleday 1992) .In a phase II clinical trial, it improved nerve fibre function among diabetics with neuropathy (Apfel 1998) .Prosaptide, administered as a subcutaneous injection, is rapidly absorbed with a short half-life and has been e ective in experimental models of chemotherapy-induced and diabetic neuropathies (Calcutt 2000; Campana 1998) .The e ects are likely to be mediated through activation of lysosomal hydrolysis of sphingolipids (Harzer 2001) .Memantine became an attractive treatment option in HIV-related DSP or ATN a er the identification of the role of the NMDA receptor in pathogenesis of neuropathy.Memantine is an important mediator in the maintenance of chronic neuropathic pain (Chen 1992) .It decreases pain in animal models of chronic pain by acting as a non-competitive antagonist at the N-methyl-D-aspartic acid (NMDA) receptors (Parsons 2001) .This analogue of amantadine, an antiviral drug, may also prevent neurotoxicity induced by Tat, platelet activating factor, and gp120 (Lipton 1992; Nath 2000; Toggas 1996) .ALC modulates cholinergic and glutaminergic neurons, thereby reducing acute and chronic pain, respectively (Chiechio 2002; Ghelardini 2002) .Moreover, ALC potentiates the actions of NGF (Jiang 2008) .In its non-acetylated form, carnitine may also have immunological actions in HIV infection (Famularo 1999) .In diabetic neuropathy, ALC improved electrophysiological parameters and pain scores (De Grandis 2002) .Vicriviroc may modulate the crucial role of CCR5 neuronal receptors in HIV-induced neurotoxicity (Keswani 2003) .",
+    "A protocol for a Cochrane Review of treatment of pain in HIVrelated distal symmetrical polyneuropathy is currently under development.In addition, there is a protocol for a Cochrane Review in progress, 'Nerve growth factors for neuropathic pain', which will also include the use of NGF for HIV-related neuropathy (Zhang 2017) .All these agents can theoretically play a disease-modifying role in DSP through various mechanisms, as described above.Currently we know of no systematic reviews of disease-modifying therapies for HIV-related DSP or ATN.",
+    "Since the pathogeneses of HIV-related DSP and ATN are probably di erent, it might seem logical to restrict this review to people with HIV who have not been exposed to d-NRTIs or PIs.However, the interaction is more complex.ATN is more common in people with pre-existing HIV-related DSP, and symptoms and signs of a painful distal sensory neuropathy may persist despite discontinuation of d-NRTIs (Berger 1993) .It is also possible that ATN is, at least partially, an 'unmasking' of clinically silent HIV-related DSP.Furthermore, HIV-related DSP and ATN frequently co-exist.Although the use of d-NRTIs in ART regimens has declined, ATN related to PIs continues to be an important cause of DSP (Evans 2011) , as mentioned earlier.Therefore, despite the di iculties inherent in evaluating the e ects of treatment in a potentially heterogeneous population, we will consider studies that include participants on d-NRTI or PIcontaining ART regimens, provided the main aim of the study is to investigate HIV-related DSP.",
+    "To assess the disease-modifying e ects of treatments in people with HIV for HIV-related DSP (including ATN) compared with no treatment, placebo or other treatments.",
+    "We will include all randomised controlled trials (RCTs) and quasi-RCTs of disease-modifying treatments for HIV-related DSP.Quasirandomised trials assign participants to treatments using methods that are partly systematic (for example, alternate allocation or allocation according to the day of the week), and so are potentially predictable.",
+    "We will only include studies where the intervention is given for a minimum of three months.We have taken a cut-o of three months because any improvement early in the course of treatment is likely to be symptomatic, i.e. mostly pain relief, and not any diseasemodifying e ect of the drug.Moreover, management of pain in HIV-related DSP will be reviewed in another Cochrane Review in development.We will consider cross-over trials for inclusion.We will include eligible studies regardless of publication status or language.",
+    "We will include participants of all ages who fulfil all of the following criteria (modified from Working Group of the American Academy of Neurology AIDS Task Force; AAN 1991).",
+    " HIV positive  Presence of distal sensory symptoms, such as pain, paraesthesiae and sensory loss  Either clinical evidence of a predominantly sensory DSP, such as sensory loss in a 'stocking distribution', allodynia, impaired temperature perception, reduced or absent ankle reflexes, with minimal weakness; or electrophysiological evidence of an axonal, predominantly sensory, neuropathy.Other causes of peripheral neuropathy (such as diabetes, alcohol, and neurotoxic drugs other than d-NRTIs) need to have been excluded",
+    "We will include all disease-modifying pharmacological and nonpharmacological interventions in HIV-related DSP that target disease-specific pathophysiological processes or toxicity from ART, compared with no treatment, placebo, or other treatment agents.",
+    "Primary outcomes",
+    " Neuropathy symptom improvement measured as change in Total Symptom Score (TSS) or other validated symptom score, preferably expressed as the change from baseline (Bastyr 2005; Ziegler 1995 ).",
+    " Health-related quality of life, measured as change in any validated quality of life score like SF 36 (Ware 1992) or EQ 5D (Rabin 2001)  Adverse events, specifically any adverse events, adverse events which lead to discontinuation of treatment, and serious adverse events, which are fatal, life-threatening, or requiring prolonged hospitalisation.We will consider adverse events in all included studies of any duration at any time. Participant-reported pain relief of 30% or greater.",
+    " Participant-reported pain relief of 50% or greater.",
+    " Patient Global Impression of Change (PGIC) much or very much improved. Electrophysiological changes: changes from baseline in amplitude, latency and conduction velocity of a sensory nerve (sural, median or ulnar sensory nerve)",
+    "We prefer to express continuous outcomes as changes from baseline, but we will also collect endpoint values and determine which data provide the more complete data set.We will categorise all outcome measures into short-term (three to six months) and long-term (more than six months) time points.If su icient studies (at least two in each group) are not available in these categories we will combine these two groups during meta-analysis.",
+    "We will search the databases listed below using the terms 'HIV infections' or 'HIV' or 'AIDS' and 'Polyneuropathies' or 'Peripheral nervous system diseases' or 'neuropathy' or 'polyneuritis' or 'distal symmetrical polyneuropathy' or 'antiretroviral toxic neuropathy' as well as appropriate indexing terms and search strategies designed to identify randomised controlled trials.",
+    "We will seek other published and unpublished trials by contacting the authors of any identified trials and other disease experts.We will search for studies in bibliographies from review articles retrieved by the searches and included studies.",
+    "We will specifically search for errata or retractions of included studies.",
+    "Two review authors (AB and VYV) will independently check the titles and abstracts of the articles retrieved by the search and code them as 'retrieve' (eligible or potentially eligible/unclear) or 'do not retrieve'; and two review authors (AB and VYV) will independently screen the full text and identify studies for inclusion, and identify and record reasons for exclusion of the ineligible studies using Covidence so ware (Covidence 2020).We will resolve any disagreement through discussion or, if required, we will consult a third person (KT).We will identify and exclude duplicates and collate multiple reports of the same study so that each study rather than each report is the unit of interest in the review.We will record the selection process in su icient detail to complete a PRISMA flow diagram and 'Characteristics of excluded studies' table (Moher 2001) .",
+    "Two review authors (AB and VYV) will independently extract data using a specially designed data extraction form.They will extract the following study characteristics from included studies in duplicate: study design and setting, characteristics of participants (e.g.disease severity and age), eligibility criteria, intervention details, the outcomes assessed, source(s) of study funding, and any conflicts of interest among investigators.They will resolve disagreements by discussion and a third review author (DF) will arbitrate any unsettled disputes.We will write to trial authors to obtain missing data if necessary.",
+    "Two review authors (AB and VYV) will independently extract outcome data from included studies.We will note in the 'Characteristics of included studies' table if outcome data were not reported in a usable way.One review author (VYV) will transfer data into Review Manager 5 (RevMan 5) (Review Manager 2020).Another author (RK) will check the outcome data entries.A third author (AB) will spot-check study characteristics for accuracy against the trial report.",
+    "When reports require translation, the translator will extract data directly using a data extraction form, or review authors will extract data from the translation provided.Where possible a review author will check numerical data in the translation against the study report.",
+    "Two review authors (AB and VYV) will independently assess risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2017 ).We will resolve any disagreements by discussion.We will assess the risk of bias according to the following domains.",
+    " Random sequence generation.",
+    " Allocation concealment.",
+    " Blinding of participants and personnel.",
+    " Blinding of outcome assessment.",
+    " Incomplete outcome data.",
+    " Selective outcome reporting.",
+    "Trusted evidence.Informed decisions.Better health.",
+    " Other bias.",
+    "We will grade each potential source of bias as high, low or unclear and provide a quote from the study report together with a justification for our judgment in the 'Risk of bias' table.We will summarise the risk of bias judgements across di erent studies for each of the domains listed.Where information on risk of bias relates to unpublished data or correspondence with a trialist, we will note this in the 'Risk of bias' table .When considering treatment e ects, we will take into account the risk of bias for the studies that contributed to that outcome.",
+    "We may allow a low risk of bias judgement for selective outcome reporting if outcomes described in the methods are fully reported and no expected outcomes appear to be missing, based on our knowledge of the field.We will not insist on a protocol or ClinicalTrials.gov in the absence of other reasons for concern.",
+    "We plan to express results as mean di erences (MDs) with 95% CI for continuous outcomes (change in impairment, neuropathy symptom impairment, health-related quality of life).We will use a standardised mean di erence for results across studies with outcomes that are conceptually the same but measured in di erent ways.We will enter data present as a scale with a consistent direction of e ect.We will use risk ratios (RR) with 95% confidence intervals (CIs) for dichotomous outcome measures (adverse events and participant-reported pain relief of 30% and 50% respectively).",
+    "The unit of analysis will be the individual.Where multiple trial arms are reported in a single trial, we will include only the treatment arms relevant to the review topic.If two comparisons (e.g.drug A versus placebo and drug B versus placebo) are combined in the same meta-analysis, we will follow guidance in Chapter 23 of the Cochrane Handbook for Systematic Reviews of Interventions, to avoid double-counting (Higgins 2019) .Our preferred approach will be to halve a control group, if we have to combine the data in a single meta-analysis.If we identify cross-over trials, we will attempt to find the first period data and analyse the results as a parallel-arm trial.",
+    "We will contact investigators or study sponsors in order to verify key study characteristics and obtain missing numerical outcome data where possible (e.g. when a study is available as an abstract only).",
+    "We will use the I statistic to measure heterogeneity among the trials in each analysis.If we identify substantial unexplained heterogeneity we will report it and explore possible causes by prespecified subgroup analysis.We will use the rough guide to interpretation as outlined in Chapter 10 of the Cochrane Handbook for Systematic Reviews of Interventions, as follows.",
+    " 0% to 40%: might not be important  30% to 60%: may represent moderate heterogeneity  50% to 90%: may represent substantial heterogeneity  75% to 100%: considerable heterogeneity We will avoid the use of absolute cut-o values, but interpret the I statistic in relation to the size and direction of e ects and strength of evidence for heterogeneity (e.g.P value from the Chi test, or CI for I statistic) (Deeks 2019) .",
+    "If we are able to pool 10 or more trials, we will create and examine a funnel plot to explore possible small study biases.We will also consider selective outcome reporting as a form of reporting bias.",
+    "When there is more than one trial with a specific treatment, we will calculate a treatment e ect across trials using RevMan 5. We will undertake meta-analysis only where this will be meaningful i.e. if the treatments, participants and the underlying clinical question are similar enough for pooling to make sense.When there are multiple studies using same drugs or di erent drugs with same mechanism of action, we will pool data for all the available primary and secondary outcomes.",
+    "We will use a random-e ects model in RevMan 5, as this is usually a more conservative approach.Where analyses include both small and large studies, we will perform a sensitivity analysis to determine whether their results are systematically di erent, since use of a random-e ects meta-analysis will exacerbate the e ects of the bias in these circumstances.If they are systematically di erent, we will perform a fixed-e ect meta-analysis as sensitivity analysis.",
+    "If the review includes comparisons that cannot be included in the same analysis (pharmacological and non-pharmacological interventions), we will report the results for each comparison separately.",
+    "We plan to carry out the following subgroup analyses when su icient data are available.",
+    " Disease duration (< 2 years versus > 2 years)  Dideoxynucleosides versus PIs  Duration of treatment (3 to 6 months versus > 6 months)",
+    "The rationale for these analyses are as follows.",
+    "Disease duration (less than versus more than 2 years): HIV-related DSP is likely to worsen with time like any other chronic neuropathy.Disease-modifying treatments for most conditions work better when started early in the course of disease.This is the basis for a proposed subgroup analysis based on duration.However, our choice of a 2-year cut-o was arbitrary.",
+    "Dideoxynucleosides versus PIs: the former was associated with ATN in the earlier reports.While there has been decline in their use and availability of ART with better safety profile, the prevalence of HIVrelated DSP has not declined (in fact it has risen).Some reports also suggest that PI use may independently be associated with DSP.",
+    "Duration of treatment (3 to 6 months versus more than 6 months): we have taken a minimum of 3 months as an inclusion criterion for duration of treatment as a shorter duration may test mainly symptomatic treatment.Even in the included studies, we will test whether longer duration of treatment (arbitrarily set as > 6 months)",
+    "Cochrane Database of Systematic Reviews di ers from shorter duration (3 to 6 months) in achieving a diseasemodifying e ect.",
+    "We will use the following outcomes in subgroup analyses.",
+    "We plan to carry out sensitivity analysis by conducting both fixede ect and random-e ects analyses.",
+    "We will create 'Summary of findings' table(s) using GRADEpro so ware (GRADEpro GDT), and present the following outcomes (e icacy outcomes and serious adverse events) following a minimum of three months of treatment.Three review authors (AB, VYV, and KT) will use the five GRADE considerations (study limitations, consistency of e ect, imprecision, indirectness, and publication bias) to independently assess the quality of a body of evidence (studies that contribute data for the prespecified outcomes).We will use methods and recommendations described in Chapter 14 of the Cochrane Handbook for Systematic Reviews of Interventions (Schünemann 2019 ).We will resolve any disagreements by discussion or by involving another review author (DF).We will assess trial quality according to the GRADE criteria.We will consider RCTs as highquality evidence if the five factors above are not present to any serious degree.We will downgrade evidence once if a quality consideration is serious and twice if very serious.We will justify all decisions to downgrade or upgrade the quality of studies using footnotes and make comments to aid readers' understanding of the review where necessary.",
+    "The The Cochrane Neuromuscular Information Specialist developed the search strategies in collaboration with the review authors.",
+    "We acknowledge peer review comments from: Leslie Levine; Paul Hart, St George's Hospital, London; Sarah Nevitt (University of Liverpool); and Jaime Vera Rojas, Brighton and Sussex University Hospital."
+  ],
+  "back_matter": [
+    " ------------------------------------------------------------------------------- ",
+    "This protocol is derived from the Cochrane Protocol Treatment for human immunodeficiency virus-related distal symmetrical polyneuropathy (Fialho 2003) .The title has been divided into two separate reviews, as follows. Disease-modifying therapy for HIV-related distal symmetrical polyneuropathy; Treatment for pain in HIV-related distal symmetrical polyneuropathy (protocol in development)."
+  ],
+  "bibref_titles": [
+    "American Academy of Neurology AIDS Task Force. Nomenclature and research case definitions for neurologic manifestations of human immunodeficiency virus-type 1 (HIV-1) infection. Report of a Working Group of the American Academy of Neurology AIDS Task Force",
+    "Recombinant human nerve growth factor in the treatment of diabetic polyneuropathy. NGF Study Group",
+    "Temporal trends in the incidence of HIV-1-related neurologic diseases: Multicenter AIDS Cohort Study, 1985-1992",
+    "Peripheral nervous system involvement in a large cohort of human immunodeficiency virus-infected individuals",
+    "Development and validity testing of the neuropathy total symptom score-6: questionnaire for the study of sensory symptoms of diabetic peripheral neuropathy",
+    "2',3'-dideoxycytidine (ddC) toxic neuropathy: a study of 52 patients",
+    "Peripheral neuropathy and quality of life of adults living with HIV/AIDS in the Rulindo district of Rwanda",
+    "Low-dose zalcitabine-related toxic neuropathy: frequency, natural history, and risk factors",
+    "Peptide t sequences prevent neuronal cell death produced by the envelope protein (gp 120) of the human immunodeficiency virus",
+    "Improvement in AIDS patients on peptide T",
+    "Protection of sensory function and antihyperalgesic properties of a prosaposin-derived peptide in diabetic rats",
+    "Prosaptide prevents paclitaxel neurotoxicity",
+    "Open-channel block of N-methyl-D-aspartate (NMDA) responses by memantine: therapeutic advantage against NMDA receptor-mediated neurotoxicity",
+    "Antiretroviral use and other risks for HIV-associated neuropathies in an international cohort",
+    "L-Acetylcarnitine induces analgesia by selectively up-regulating mGlu2 metabotropic glutamate receptors",
+    "Plasma viral load and CD4 lymphocytes predict HIVassociated dementia and sensory neuropathy",
+    "Mitochondrial alterations with mitochondrial DNA depletion in the nerves of AIDS patients with peripheral neuropathy induced by 2'3'-dideoxycytidine (ddC)",
+    "Acetyl-L-carnitine (levacecarnine) in the treatment of diabetic neuropathy. A long-term, randomised, double-blind, placebo-controlled study",
+    "Chapter 10: Analysing data and undertaking meta-analyses",
+    "The role of nerve growth factor in collateral reinnervation by cutaneous C-fibres in the rat",
+    "Human immunodeficiency virus protease inhibitors and risk for peripheral neuropathy",
+    "Continued high prevalence and adverse clinical impact of human immunodeficiency virus-associated sensory neuropathy in the era of combination antiretroviral therapy: the CHARTER Study",
+    "Peripheral neuropathy in HIV: prevalence and risk factors",
+    "Carnitine stands on its own in HIV infection treatment",
+    "Nature and incidence of peripheral nerve syndromes in HIV infection",
+    "HIV peripheral neuropathy. Handbook of Clinical Neurology",
+    "Neurological manifestations of HIV-1 infection in the HAART era",
+    "Acetyl-l-carnitine induces muscarinic antinocieption in mice and rats",
+    "Epidemiology of HIV-related neuropathy: a systematic literature review",
+    "Saposins (sap) A and C activate the degradation of galactosylsphingosine",
+    "Chapter 8: Assessing risk of bias in included studies",
+    "Chapter 23: Including variants on randomized trials",
+    "Screening for HIV-associated distalsymmetric polyneuropathy in CDC-classification stages 1, 2, and 3",
+    "Ability of alpha-lipoic acid to reverse the diabetic cystopathy in a rat model",
+    "HIV neuropathy",
+    "Health-related quality of life 'well-being' in HIV distal neuropathic pain is more strongly associated with depression severity than with pain intensity",
+    "Schwann cell chemokine receptors mediate HIV-1 gp120 toxicity to sensory neurons",
+    "The nerve growth factor: thirty-five years later",
+    "Memantine prevents HIV coat protein-induced neuronal injury in vitro",
+    "Pharmacological enhancement of peripheral nerve regeneration in the rat by systemic acetyl-L-carnitine treatment",
+    "Confirming the e icacy of intravenous immunoglobulin in CIDP through minimum clinically important di erences: shi ing from statistical significance to clinical relevance",
+    "Minimum clinically important di erence analysis confirms the e icacy of IgPro10 in CIDP: the PRIMA trial",
+    "The CONSORT statement: revised recommendations for improving the quality of reports of parallel-group randomised trials",
+    "Synergistic neurotoxicity by human immunodeficiency virus proteins Tat and gp120: protection by memantine",
+    "HIV-Related Neurological Syndromes Reduce Health-Related Quality of Life",
+    "NMDA receptors as targets for drug action in neuropathic pain",
+    "Octapeptides deduced from the neuropeptide receptorlike pattern of antigen T4 in brain potently inhibit human immunodeficiency virus receptor binding and T-cell infectivity",
+    "AIDS and its dementia as a neuropeptide disorder: role of VIP receptor blockade by human immunodeficiency virus envelope",
+    "Sensory neuropathy in human immunodeficiency virus/acquired immunodeficiency syndrome patients: protease inhibitor-mediated neurotoxicity",
+    "Sensory, psychological, and metabolic dysfunction in HIV-associated peripheral neuropathy: A crosssectional deep profiling study",
+    "Psychological factors associated with painful versus nonpainful HIV-associated sensory neuropathy",
+    "EQ-5D: a measure of health status from the EuroQol Group",
+    "Trophic action of acetyl-L-carnitine in neuronal cultures",
+    "Role of HIV in the pathogenesis of distal symmetrical peripheral neuropathy",
+    "Neurotrophic factors as novel therapeutics for neuropathic pain",
+    "Markers of immune activation and viral load in HIV-associated sensory neuropathy",
+    "Chapter 14: Completing 'Summary of findings' tables and grading the certainty of the evidence",
+    "Severity of HIV-associated neuropathy is associated with plasma HIV-1 RNA levels",
+    "Prevalence of and risk factors for HIV-associated neuropathy in Melbourne, Australia 1993-2006",
+    "Discovery and characterization of vicriviroc (SCH 417690), a CCR5 antagonist with potent activity against human immunodeficiency virus type 1",
+    "Prevention of HIV-1 gp120induced neuronal damage in the central nervous system of transgenic mice by the NMDA receptor antagonist memantine",
+    "Unifying hypothesis for the pathogenesis of HIV-associated dementia complex, vacuolar myelopathy, and sensory neuropathy",
+    "Prosaptide prevents hyperalgesia and reduces peripheral TNFR1 expression following TNF-alpha nerve injection",
+    "The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection",
+    "Peptide T in treatment of AIDS",
+    "Nerve growth factor for neuropathic pain",
+    "Treatment of symptomatic diabetic peripheral neuropathy with the anti-oxidant alpha-lipoic acid. A 3-week multicentre randomized controlled trial (ALADIN Study)",
+    "Treatment for human immunodeficiency virus-related distal symmetrical polyneuropathy"
+  ]
+}
