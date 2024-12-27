@@ -79,8 +79,8 @@ def clean_data(input_file, output_file):
         print(f"Error writing to file {output_file}: {e}")
 
 if __name__ == "__main__":
-    input_dir = "c:/Users/Yassine/Downloads/TanitAI_RAG/medical-research-kg/data/assignementdataset/"
-    output_dir = "c:/Users/Yassine/Downloads/TanitAI_RAG/medical-research-kg/data/processed/"
+    input_dir = "c:/Users/Yassine/Downloads/TanitAI_RAG/data/assignementdataset/"
+    output_dir = "c:/Users/Yassine/Downloads/TanitAI_RAG/data/processed/"
 
     # Create the output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)

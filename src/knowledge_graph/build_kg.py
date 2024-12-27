@@ -110,6 +110,6 @@ def load_json_files_to_neo4j(json_folder):
                 )
 
 if __name__ == "__main__":
-    json_folder = r"c:/Users/Yassine/Downloads/TanitAI_RAG/medical-research-kg/data/processed"
+    json_folder = r"c:/Users/Yassine/Downloads/TanitAI_RAG/data/processed"
     load_json_files_to_neo4j(json_folder)
     print("Knowledge graph created and populated with JSON files.")
