@@ -63,7 +63,7 @@ get_json_files_names.py: this script ive us an idea about the topics of the medi
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Yas002/medical-papers-knowledge-graph.git
    cd medical-research-kg
    ```
 
